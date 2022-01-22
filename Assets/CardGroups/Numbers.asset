@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e1d061c1a53514419e8ea96bdbd7b8d, type: 3}
+  m_Name: Numbers
+  m_EditorClassIdentifier: 
+  _cards:
+  - _sprite: {fileID: 1422184923334757970, guid: 06a8ca85d35c2584dbc7ce8380aba38f,
+      type: 3}
+    _answer: 1
+    _rotation: 0
+  - _sprite: {fileID: 1808195818850983521, guid: 06a8ca85d35c2584dbc7ce8380aba38f,
+      type: 3}
+    _answer: 2
+    _rotation: 0
+  - _sprite: {fileID: -7900951133411543555, guid: 06a8ca85d35c2584dbc7ce8380aba38f,
+      type: 3}
+    _answer: 3
+    _rotation: 0
+  - _sprite: {fileID: 2267071060405275165, guid: 06a8ca85d35c2584dbc7ce8380aba38f,
+      type: 3}
+    _answer: 4
+    _rotation: 0
+  - _sprite: {fileID: -7398325283844340781, guid: 06a8ca85d35c2584dbc7ce8380aba38f,
+      type: 3}
+    _answer: 5
+    _rotation: 0
+  - _sprite: {fileID: -7015292045520539579, guid: 06a8ca85d35c2584dbc7ce8380aba38f,
+      type: 3}
+    _answer: 6
+    _rotation: 0
+  - _sprite: {fileID: -675344402919758444, guid: 06a8ca85d35c2584dbc7ce8380aba38f,
+      type: 3}
+    _answer: 7
+    _rotation: -90
+  - _sprite: {fileID: 3547489320769246608, guid: 06a8ca85d35c2584dbc7ce8380aba38f,
+      type: 3}
+    _answer: 8
+    _rotation: -90
+  - _sprite: {fileID: -1155199509967091035, guid: 3cb2ae0e460b3a847a22e99ee5c7e2f8,
+      type: 3}
+    _answer: 9
+    _rotation: 0
+  - _sprite: {fileID: 4142021021139464533, guid: 6261ebcc1fdadc1469b651bdd0fcac72,
+      type: 3}
+    _answer: 10
+    _rotation: 0
